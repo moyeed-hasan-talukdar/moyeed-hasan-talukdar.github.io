@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Moyeed's Personal Webpage
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,8 +8,8 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: MD. MOYEED HASAN TALUKDER
   avatar: moyeed.JPG
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Completed Honors and Masters degree from Bangladesh Agricultural University (BAU), Mymensingh"
+  email: moyeedhasan.bau@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
