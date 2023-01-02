@@ -9,13 +9,14 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2019`
+__Bangladesh Agricultural University (BAU), Mymensingh__
+Masters (Soil Science)
+CGPA-3.94
 
 `1995 - 1997`
 __University Name__
-Degree Awarded 
+Masters 
 
 ## Awards
 
