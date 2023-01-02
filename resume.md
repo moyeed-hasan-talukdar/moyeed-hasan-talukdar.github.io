@@ -11,12 +11,24 @@ Current Position Description
 
 `2019`
 __Bangladesh Agricultural University (BAU), Mymensingh__
-Masters (Soil Science)
-CGPA-3.94
+Masters in Soil Science
+CGPA-3.94 (Out of 4.00)
 
-`1995 - 1997`
-__University Name__
-Masters 
+`2017`
+__Bangladesh Agricultural University (BAU), Mymensingh__
+Honours in Agriculture
+CGPA-3.674 (Out of 4.00)
+
+`2012`
+__Dhaka__
+HSC (Science)
+GPA-5 (Out of 5.00)
+
+
+`2010`
+__Dhaka__
+SSC (Science)
+GPA-3.674 (Out of 4.00)
 
 ## Awards
 
