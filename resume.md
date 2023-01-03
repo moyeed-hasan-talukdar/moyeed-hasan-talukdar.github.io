@@ -9,6 +9,7 @@ Current Position Description
 
 ## Education
 | Examination  | Board/Institute | Group/Subject  | Result | Year |
+| :--- | :--- | :--- | :--- | :--- |
 | ------------- | ------------- | ------------- | ------------- |------------- |
 | **Masters**  | Bangladesh Agricultural University (BAU), Mymensingh | Soil Science  | CGPA-3.94 (Out of 4.00)  | 2019  |
 | **Honours**  | Bangladesh Agricultural University (BAU), Mymensingh  | Agriculture  | CGPA-3.674 (Out of 4.00  | 2017  |
