@@ -71,19 +71,32 @@ National Science and Technology (NST) Fellowship, Ministry of Education, Banglad
 5. Basics of MS Office from Graduate Training Institute (GTI), BAU, Mymensingh `[2016]`
 6. AGRIMONITOR: Agricultural policy, food security and climate change, Inter-American Development Bank (IDBx), (Final Grade: 77%) (https://www.edx.org/)
 
-`Current`
-__Current Job Title__, Current Employer 
+## Achievements
+1. Lead a project entitled Project Nobanno in `2021` in Kushtia, Bangladesh. _[Quality production of six different varieties of rice aligning with mechanization & IPM approaches]_
+2. Lead a project entitled Project Srokkha in `2021` in Kushtia, Bangladesh. _[Ensuring agrochemicals waste collection through uniquely designed disposal pits from farmers in various locations]_
+3. Successfully achieved the course of Japan-Asia Youth Exchange program in Science _[SAKURA Exchange Program in Science] in `2018`.
+4. Champion at Intra School Debate Competition `2008`.
+5. Stood first in Essay Competition organized by World Vision Bangladesh in `2009`
+6. Placed 1st in various competitions like essay writing, poem recitation, instant speech delivering, etc. in school and college level.
 
-- Task
-- Task
+## Field Trip
++ A weeklong Extension Field Trip arranged by Department of Agricultural Extension Education, Bangladesh Agricultural University, Mymensingh, Bangladesh [28 August to 02 September 2016].
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+## Social Skills
++ Ex Cadet and Ex Lance Corporal of Bangladesh National Cadet Corps, 5 Ramna Battalion, Mymensingh, Bangladesh
 
-- Task
-- Task
+## Membership
 
++ The Sakura Science Club
++ Krishibid Institution Bangladesh (KIB)
 
+## References
+1. Dr. Md. Rafiqul Islam, Professor
+Department of Soil Science, Bangladesh Agricultural University, Mymensingh, Bangladesh, Cell: +8801711118761, Email: rafiqss69@bau.edu.bd
+2. Dr. Mahmud Hossain Sumon, Professor
+Department of Soil Science, Bangladesh Agricultural University, Mymensingh, Bangladesh, Cell: +8801718386161, Email: mahmud.ss@bau.edu.bd 
+3. Dr. Mohammad Rashed Hossain, Professor
+Department of Genetics and Plant Breeding, Bangladesh Agricultural University, Mymensingh, Bangladesh, Cell: +8801783281505, Email: m.r.hossain@bau.edu.bd
 
 <!-- ### Footer
 
