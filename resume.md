@@ -10,36 +10,28 @@ Current Position Description
 ## Education
 | Examination  | Board/Institute | Group/Subject  | Result | Year |
 | ------------- | ------------- | ------------- | ------------- |------------- |
-| Masters  | Bangladesh Agricultural University (BAU), Mymensingh | Soil Science  | CGPA-3.94 (Out of 4.00)  | 2019  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| **Masters**  | Bangladesh Agricultural University (BAU), Mymensingh | Soil Science  | CGPA-3.94 (Out of 4.00)  | 2019  |
+| **Honours**  | Bangladesh Agricultural University (BAU), Mymensingh  | Agriculture  | CGPA-3.674 (Out of 4.00  | 2017  |
+| **HSC**  | Dhaka  | Science | GPA-5 (Out of 5.00)  | 2012 |
+| **SSC**  | Dhaka  | Science  | GPA-5 (Out of 5.00)  | 2010  |
 
-`2019`
-__Bangladesh Agricultural University (BAU), Mymensingh__
-Masters in Soil Science
-CGPA-3.94 (Out of 4.00)
-
-`2017`
-__Bangladesh Agricultural University (BAU), Mymensingh__
-Honours in Agriculture
-CGPA-3.674 (Out of 4.00)
-
-`2012`
-__Dhaka__
-HSC (Science)
-GPA-5 (Out of 5.00)
-
-
-`2010`
-__Dhaka__
-SSC (Science)
-GPA-3.674 (Out of 4.00)
 
 ## Work Experience
 
-`2012`
-Name of Award, Organization 
+| Position  | Organization | Duration |
+| ------------- | ------------- |------------- |
+| **Global Graduate-Leaf operations**  | British American Tobacco Bangladesh Ltd.  | August 2021-January 2022 |
+| **Scientific Officer**  | PBRG Sub Project: Microbial Characterization of Bangladesh Soil & Development of Climate Smart Biofertilizer for Crop Production & Soil Fertility (ID: 043), Bangladesh Rice Research Institute  | February 2020  |
+| **Research Assistant**  | Department of Soil Science, Bangladesh Agricultural University  | July 2017 - December 2018 |
+| **Research Fellow** | Faculty of Agriculture, Okayama University, Japan | 28th August 2018- 4th September 2018 |
+
+
+## Research Experience
+| Research  | Name |
+| ------------- | ------------- |
+| Research project of Queen’s University Belfast, UK in collaboration with Department of Soil Science, Bangladesh Agricultural University, Bangladesh  | Household biomass ash as a fertilizer to sustainability improve soil nutrition to enhance rice yields  |
+| Research project of PIU-BARC (NATP Phase-2) in collaboration with Department of Soil Science, Bangladesh Agricultural University, Bangladesh  | Management of acid soils for sustainable crop production in Madhupur Tract and Northern and Eastern Piedmont Plain  |
+| MS Thesis at Department of Soil Science, Bangladesh Agricultural University, Bangladesh | Effect of Lime and Organic Matter Amendment on T. Aman Mustard-Boro Cropping Pattern in Acidic Terrace Soil Of Fulbaria |
 
 ## Publications
 
