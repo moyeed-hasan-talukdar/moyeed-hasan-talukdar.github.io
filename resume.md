@@ -43,13 +43,33 @@ Current Position Description
 + Islam MR, Mohammad MB, Akhter MT, **Talukder MMH** and Hossen k. 2018. Effect of deep placement of N fertilizers on nitrogen use efficiency and yield of BRRI dhan29 under flooded condition. Asian Journal of Medical and Biological Research. 3(4): 454-461.
 
 
-## Presentations
+## Fellowship
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`[2017-18]`
+National Science and Technology (NST) Fellowship, Ministry of Education, Bangladesh 
 
 
-## Occupation
+## Language Proficiency
+
++ Completed an advanced online course on English for Career Development, University of Pennsylvania. (Grade Achieved: 92.0%) (https://www.coursera.org/)
+
+## Conferences
+
++ National conference on “Food and Nutrition Security in Bangladesh: Interdisciplinary Approaches” organized by Interdisciplinary Centre for Food Security, Bangladesh Agricultural University, Mymensingh and Bangladesh Agricultural Research Council, With support from Centre for Development Innovation, Wageningen University, Netherlands. [07-08 October, 2017]
+  - **Title of Poster Presentation**: Fertilizer and water management for greenhouse gas emission mitigation and food security
++ 1st International Conference on Challenges for Future Agriculture 2018, Bangladesh Agricultural University, Mymensingh, Bangladesh [27-28 January 2018]
+  - **Title of Poster Presentation**: Influence of organic and inorganic nitrogen on rice grain yield and N use efficiency in the non-calcareous soils of Bangladesh
++ National Young Entrepreneurs' Conference 2017 arranged at Krishibid Institution of Bangladesh [28th July 2017]
+
+
+## Training
+
+1. Virtual Workshop on Infographics and Data Visualization arranged by Edward M. Kennedy Center, Dhaka, Bangladesh `[2020]`
+2. Learning Video Editing arranged by Edward M. Kennedy Center, Dhaka, Bangladesh `[2020]`
+3. Training on Operation and Maintenance of Sophisticated Equipment arranged by Department of Soil Science with the support of HEQEP-AIF UGC project CP- 3805. `[2017]`
+4. Application of Statistical Methods for Analysing Data by Stata arranged by Interdisciplinary Centre for Food Security (ICF),Bangladesh Agricultural University, Mymensingh `[2017]`
+5. Basics of MS Office from Graduate Training Institute (GTI), BAU, Mymensingh `[2016]`
+6. AGRIMONITOR: Agricultural policy, food security and climate change, Inter-American Development Bank (IDBx), (Final Grade: 77%) (https://www.edx.org/)
 
 `Current`
 __Current Job Title__, Current Employer 
