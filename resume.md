@@ -10,19 +10,24 @@ Current Position Description
 ## Education
 | Examination  | Board/Institute | Group/Subject  | Result | Year |
 | :---:  | :---:  | :---:  | :---:  | :---:  |
-| **Masters**  | Bangladesh Agricultural University (BAU), Mymensingh | Soil Science  | 3.94<br/>(Out of 4)  | 2019  |
-| **Honours**  | Bangladesh Agricultural University (BAU), Mymensingh  | Agriculture  | 3.674<br/>(Out of 4)  | 2017  |
-| **HSC**  | Dhaka  | Science | 5<br/>(Out of 5)  | 2012 |
-| **SSC**  | Dhaka  | Science  | 5<br/>(Out of 5)  | 2010  |
+| **Masters**  | Bangladesh Agricultural University (BAU), Mymensingh | Soil Science  | 3.94  | 2019  |
+| **Honours**  | Bangladesh Agricultural University (BAU), Mymensingh  | Agriculture  | 3.674  | 2017  |
+| **HSC**  | Dhaka  | Science | 5.00  | 2012 |
+| **SSC**  | Dhaka  | Science  | 5.00  | 2010  |
 
 
 ## Work Experience
 
 | Position  | Organization | Duration |
+
 | :---:  | :---:  | :---:  |
+
 | **Global Graduate-Leaf operations**  | British American Tobacco Bangladesh Ltd.  | August 2021-January 2022 |
+
 | **Scientific Officer**  | PBRG Sub Project: Microbial Characterization of Bangladesh Soil & Development of Climate Smart Biofertilizer for Crop Production & Soil Fertility (ID: 043), Bangladesh Rice Research Institute  | February 2020  |
+
 | **Research Assistant**  | Department of Soil Science, Bangladesh Agricultural University  | July 2017 - December 2018 |
+
 | **Research Fellow** | Faculty of Agriculture, Okayama University, Japan | 28th August 2018- 4th September 2018 |
 
 
