@@ -19,7 +19,7 @@ Current Position Description
 ## Work Experience
 
 | Position  | Organization | Duration |
-| ------------- | ------------- |------------- |
+| :---:  | :---:  | :---:  |
 | **Global Graduate-Leaf operations**  | British American Tobacco Bangladesh Ltd.  | August 2021-January 2022 |
 | **Scientific Officer**  | PBRG Sub Project: Microbial Characterization of Bangladesh Soil & Development of Climate Smart Biofertilizer for Crop Production & Soil Fertility (ID: 043), Bangladesh Rice Research Institute  | February 2020  |
 | **Research Assistant**  | Department of Soil Science, Bangladesh Agricultural University  | July 2017 - December 2018 |
