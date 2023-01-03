@@ -3,9 +3,6 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
-
-Current Position Description
 
 ## Education
 | Examination  | Board/Institute | Group/Subject  | Result | Year |
