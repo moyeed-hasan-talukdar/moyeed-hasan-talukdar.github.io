@@ -5,7 +5,6 @@ menutitle: Home
 menuorder: 1
 ---
 
-## Basic Information:
 
 - Name: MD. MOYEED HASAN TALUKDER
 - Present Address: 9/B, Hori Kishore Roy road, Mymensingh, Bangladesh.
