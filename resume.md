@@ -8,9 +8,9 @@ menutitle: Resume
 Current Position Description
 
 ## Education
-| First Header  | Second Header | First Header  | Second Header | Second Header |
+| Examination  | Board/Institute | Group/Subject  | Result | Year |
 | ------------- | ------------- | ------------- | ------------- |------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Masters  | Bangladesh Agricultural University (BAU), Mymensingh | Soil Science  | CGPA-3.94 (Out of 4.00)  | 2019  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
