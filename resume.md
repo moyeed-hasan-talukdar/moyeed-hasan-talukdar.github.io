@@ -37,21 +37,10 @@ Current Position Description
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
++ Islam, M.R.; **Talukder, M.M.H.**; Hoque, M.A.; Uddin, S.; Hoque, T.S.; Rea, R.S.; Alorabi, M.; Gaber, A.; Kasim, S. Lime and Manure Amendment Improve Soil Fertility, Productivity and Nutrient Uptake of Rice-Mustard-Rice Cropping Pattern in an Acidic Terrace Soil. Agriculture 2021, 11, 1070. https://doi.org/10.3390/agriculture 11111070
++ Islam, M.R.; Akter, A.; Hoque, M.A.; Farzana, S.; Uddin, S.; **Talukder, M.M.H.**; Alsanie, W.F.; Gaber, A.; Hossain, M.A. Lime and Organic Manure Amendment: A Potential Approach for Sustaining Crop Productivity of the T. Aman-Maize-Fallow Cropping Pattern in Acidic Piedmont Soils. Sustainability 2021, 13, 9808. https:// doi.org/10.3390/su13179808
++ M Alam, MJH Bhuiyan, MA Hossain, SR Ray, AK Hasan and **MMH Talukder**. 2020. Sowing time regulates quality chickpea production by mediating morphological, biochemical and functional traits. Indian Journal of Natural Sciences. 10(59):18834-18843
++ Islam MR, Mohammad MB, Akhter MT, **Talukder MMH** and Hossen k. 2018. Effect of deep placement of N fertilizers on nitrogen use efficiency and yield of BRRI dhan29 under flooded condition. Asian Journal of Medical and Biological Research. 3(4): 454-461.
 
 
 ## Presentations
