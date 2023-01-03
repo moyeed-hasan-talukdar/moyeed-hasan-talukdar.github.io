@@ -10,10 +10,10 @@ Current Position Description
 ## Education
 | Examination  | Board/Institute | Group/Subject  | Result | Year |
 | :---:  | :---:  | :---:  | :---:  | :---:  |
-| **Masters**  | Bangladesh Agricultural University (BAU), Mymensingh | Soil Science  | CGPA-3.94 (Out of 4.00)  | 2019  |
-| **Honours**  | Bangladesh Agricultural University (BAU), Mymensingh  | Agriculture  | CGPA-3.674 (Out of 4.00  | 2017  |
-| **HSC**  | Dhaka  | Science | GPA-5 (Out of 5.00)  | 2012 |
-| **SSC**  | Dhaka  | Science  | GPA-5 (Out of 5.00)  | 2010  |
+| **Masters**  | Bangladesh Agricultural University (BAU), Mymensingh | Soil Science  | CGPA-3.94<br/>(Out of 4.00)  | 2019  |
+| **Honours**  | Bangladesh Agricultural University (BAU), Mymensingh  | Agriculture  | CGPA-3.674<br/>(Out of 4.00  | 2017  |
+| **HSC**  | Dhaka  | Science | GPA-5<br/>(Out of 5.00)  | 2012 |
+| **SSC**  | Dhaka  | Science  | GPA-5<br/>(Out of 5.00)  | 2010  |
 
 
 ## Work Experience
