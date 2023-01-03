@@ -33,7 +33,7 @@ Current Position Description
 
 ## Research Experience
 | Research  | Name |
-| ------------- | ------------- |
+| :---:  | :---:  |
 | Research project of Queen’s University Belfast, UK in collaboration with Department of Soil Science, Bangladesh Agricultural University, Bangladesh  | Household biomass ash as a fertilizer to sustainability improve soil nutrition to enhance rice yields  |
 | Research project of PIU-BARC (NATP Phase-2) in collaboration with Department of Soil Science, Bangladesh Agricultural University, Bangladesh  | Management of acid soils for sustainable crop production in Madhupur Tract and Northern and Eastern Piedmont Plain  |
 | MS Thesis at Department of Soil Science, Bangladesh Agricultural University, Bangladesh | Effect of Lime and Organic Matter Amendment on T. Aman Mustard-Boro Cropping Pattern in Acidic Terrace Soil Of Fulbaria |
