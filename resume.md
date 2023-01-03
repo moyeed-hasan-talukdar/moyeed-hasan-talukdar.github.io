@@ -19,24 +19,19 @@ Current Position Description
 ## Work Experience
 
 | Position  | Organization | Duration |
-
-| :---:  | :---:  | :---:  |
-
+| ------------- | ------------- | ------------- |
 | **Global Graduate-Leaf operations**  | British American Tobacco Bangladesh Ltd.  | August 2021-January 2022 |
-
 | **Scientific Officer**  | PBRG Sub Project: Microbial Characterization of Bangladesh Soil & Development of Climate Smart Biofertilizer for Crop Production & Soil Fertility (ID: 043), Bangladesh Rice Research Institute  | February 2020  |
-
 | **Research Assistant**  | Department of Soil Science, Bangladesh Agricultural University  | July 2017 - December 2018 |
-
 | **Research Fellow** | Faculty of Agriculture, Okayama University, Japan | 28th August 2018- 4th September 2018 |
 
 
 ## Research Experience
 | Research  | Name |
 | :---:  | :---:  |
-| Research project of Queen’s University Belfast, UK in collaboration with Department of Soil Science, Bangladesh Agricultural University, Bangladesh  | Household biomass ash as a fertilizer to sustainability improve soil nutrition to enhance rice yields  |
-| Research project of PIU-BARC (NATP Phase-2) in collaboration with Department of Soil Science, Bangladesh Agricultural University, Bangladesh  | Management of acid soils for sustainable crop production in Madhupur Tract and Northern and Eastern Piedmont Plain  |
-| MS Thesis at Department of Soil Science, Bangladesh Agricultural University, Bangladesh | Effect of Lime and Organic Matter Amendment on T. Aman Mustard-Boro Cropping Pattern in Acidic Terrace Soil Of Fulbaria |
+| 1. Research project of Queen’s University Belfast, UK in collaboration with Department of Soil Science, Bangladesh Agricultural University, Bangladesh  | Household biomass ash as a fertilizer to sustainability improve soil nutrition to enhance rice yields  |
+| 2. Research project of PIU-BARC (NATP Phase-2) in collaboration with Department of Soil Science, Bangladesh Agricultural University, Bangladesh  | Management of acid soils for sustainable crop production in Madhupur Tract and Northern and Eastern Piedmont Plain  |
+| 3. MS Thesis at Department of Soil Science, Bangladesh Agricultural University, Bangladesh | Effect of Lime and Organic Matter Amendment on T. Aman Mustard-Boro Cropping Pattern in Acidic Terrace Soil Of Fulbaria |
 
 ## Publications
 
